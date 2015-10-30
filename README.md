@@ -1,7 +1,7 @@
 NaOpGenMo 2015
 ==============
 
-National Opera Generation Month, based on an idea that -- look, don't ask, you don't really want to know.  Suffice to say it is riffing on [NaNoGenMo](https://github.com/dariusk/NaNoGenMo-2015) which is itself riffing on [NaNoWriMo](nanowrimo.org).
+National Opera Generation Month, based on an idea that -- look, don't ask, you don't really want to know.  Suffice to say it is riffing on [NaNoGenMo](https://github.com/dariusk/NaNoGenMo-2015) which is itself riffing on [NaNoWriMo](http://nanowrimo.org/).
 
 The structure is very similar to NaNoGenMo, and therefore the following text is too, with apologies to @dariusk.
 
@@ -28,7 +28,7 @@ This activity starts at 00:01 GMT on 1 November 2015 and ends at 00:01 GMT on 1 
 How to Participate
 ------------------
 
-NaOpGenMo will generally use NaNoGenMo's model: if you want to participate, open an issue on this repo, where you can declare your intent to participate, post ideas you have and updates on your progress, sample code or operatic excerpts, and so forth.  Feel free, also, to comment on other participants' issues -- just don't be too surprised when Github issues shows itself to be somewhat unorthodox as a discussion forum.
+NaOpGenMo follows NaNoGenMo's model: if you want to participate, open an issue on this repo, where you can declare your intent to participate, post ideas you have and updates on your progress, sample code or operatic excerpts, and so forth.  Feel free, also, to comment on other participants' issues -- but don't be too surprised if Github proves somewhat unorthodox as a discussion forum.
 
 Have fun!
 ---------
